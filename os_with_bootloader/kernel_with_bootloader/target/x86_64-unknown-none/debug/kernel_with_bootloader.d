@@ -1,0 +1,1 @@
+/Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/x86_64-unknown-none/debug/kernel_with_bootloader: /Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/src/main.rs

@@ -1,0 +1,11 @@
+/Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/debug/deps/libbootloader_api-8033abd90e07e3b9.rmeta: /Users/mirireoluwaolukanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/lib.rs /Users/mirireoluwaolukanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/config.rs /Users/mirireoluwaolukanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/info.rs /Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/debug/build/bootloader_api-9d48da8cbe7f8d19/out/concat.rs /Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/debug/build/bootloader_api-9d48da8cbe7f8d19/out/version_info.rs
+
+/Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/debug/deps/bootloader_api-8033abd90e07e3b9.d: /Users/mirireoluwaolukanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/lib.rs /Users/mirireoluwaolukanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/config.rs /Users/mirireoluwaolukanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/info.rs /Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/debug/build/bootloader_api-9d48da8cbe7f8d19/out/concat.rs /Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/debug/build/bootloader_api-9d48da8cbe7f8d19/out/version_info.rs
+
+/Users/mirireoluwaolukanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/lib.rs:
+/Users/mirireoluwaolukanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/config.rs:
+/Users/mirireoluwaolukanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/info.rs:
+/Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/debug/build/bootloader_api-9d48da8cbe7f8d19/out/concat.rs:
+/Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/debug/build/bootloader_api-9d48da8cbe7f8d19/out/version_info.rs:
+
+# env-dep:OUT_DIR=/Users/mirireoluwaolukanni/Documents/PAU/coding/csc-308/kernel_with_bootloader/target/debug/build/bootloader_api-9d48da8cbe7f8d19/out

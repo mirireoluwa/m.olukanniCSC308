@@ -1,0 +1,1 @@
+{"rustc":15821536074144950846,"features":"[]","declared_features":"[\"collections\", \"no_std\"]","target":8461122698804052812,"profile":8276155916380437441,"path":5065984858803346749,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/bitmap-d208ffc61f236462/dep-lib-bitmap","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}
